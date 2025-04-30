@@ -1,4 +1,4 @@
-'''Hand Cricket E-Game by MUSKAN BISHT using Python
+'''Hand Cricket E-Game by Rudra Singh Bisht using Python
            Technologies Required To Run this Code : Pyhton(32/64 bit) version 2/3+
 INSTRUCTIONS TO PLAY THIS GAME :
 1.First Choose Even/Odd for Toss.
